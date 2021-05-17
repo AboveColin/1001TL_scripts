@@ -41,9 +41,6 @@
     var Title = document.getElementsByClassName("bTitle");
     $('.bTitle').each(function(i, obj) {Title[i].append(tlUser[i])});
 
-    //Hr under msot viewed tracklist etc
-    var wRow = document.getElementsByClassName("wRow");
-
     // CSS Pog
     var sheet = window.document.styleSheets[0];
     $(".bItm").css("margin-top", "0px");
