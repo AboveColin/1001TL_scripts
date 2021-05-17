@@ -6,6 +6,7 @@
 // @author       AboveColin
 // @match        https://www.1001tracklists.com/*
 // @exclude      https://www.1001tracklists.com/tracklist/*
+// @exclude      https://www.1001tracklists.com/edit/*
 // @icon         https://www.google.com/s2/favicons?domain=1001tracklists.com
 // @grant        none
 // @require https://code.jquery.com/jquery-3.6.0.min.js
